@@ -1,4 +1,4 @@
-package com.example.domain.usecase
+package com.example.domain.usecase.auth
 
 import com.example.domain.repo.AuthRepository
 

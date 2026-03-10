@@ -1,4 +1,4 @@
-package com.example.data.user
+package com.example.data.local.user
 
 interface UserStorage {
     fun setUser()
